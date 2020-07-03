@@ -1,0 +1,6 @@
+plugin1:1.2.3
+
+plugin10:2.6 # comment
+
+# another comment
+
